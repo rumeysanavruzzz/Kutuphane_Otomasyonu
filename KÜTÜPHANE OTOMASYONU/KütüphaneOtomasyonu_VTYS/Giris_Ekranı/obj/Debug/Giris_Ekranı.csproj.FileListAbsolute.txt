@@ -1,0 +1,678 @@
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe.config
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\Giris_Ekranı.pdb
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.AssemblyReference.cache
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.girisformu.resources
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.Properties.Resources.resources
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.GenerateResource.cache
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.CoreCompileInputs.cache
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.exe
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.pdb
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.Anasayfa.resources
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.uye.resources
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe.config
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\Giris_Ekranı.pdb
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.AssemblyReference.cache
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.Anasayfa.resources
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.girisformu.resources
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.Properties.Resources.resources
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.uye.resources
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.GenerateResource.cache
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.CoreCompileInputs.cache
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.exe
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.pdb
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.odunc_islemleri.resources
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.kullanici_islemleri.resources
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ekranı.kitap_islemleri.resources
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\bin\Debug\stdole.dll
+C:\Users\Hanife\Desktop\Kütüphane_Otomasyonu\Kütüphane_Otomasyonu\Giris_Ekranı\obj\Debug\Giris_Ek.39DC4211.Up2Date
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe.config
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\Giris_Ekranı.pdb
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\stdole.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.AssemblyReference.cache
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.Anasayfa.resources
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.girisformu.resources
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.kitap_islemleri.resources
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.kullanici_islemleri.resources
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.odunc_islemleri.resources
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.Properties.Resources.resources
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.uye.resources
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.GenerateResource.cache
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.CoreCompileInputs.cache
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\obj\Debug\Giris_Ek.39DC4211.Up2Date
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.exe
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.pdb
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Hanife\Desktop\laklak\Giris_Ekranı\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.Anasayfa.resources
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.girisformu.resources
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.kitap_islemleri.resources
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.kullanici_islemleri.resources
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.odunc_islemleri.resources
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.Properties.Resources.resources
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.uye.resources
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.exe
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\obj\Debug\Giris_Ekranı.pdb
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe.config
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\Giris_Ekranı.pdb
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ASUS\Downloads\laklak\laklak\Giris_Ekranı\obj\Debug\Giris_Ek.39DC4211.Up2Date
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe.config
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\Giris_Ekranı.pdb
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\bin\Debug\stdole.dll
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.AssemblyReference.cache
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\obj\Debug\Giris_Ekranı.Anasayfa.resources
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\obj\Debug\Giris_Ekranı.girisformu.resources
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\obj\Debug\Giris_Ekranı.kitap_islemleri.resources
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\obj\Debug\Giris_Ekranı.kullanici_islemleri.resources
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\obj\Debug\Giris_Ekranı.odunc_islemleri.resources
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\obj\Debug\Giris_Ekranı.Properties.Resources.resources
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\obj\Debug\Giris_Ekranı.uye.resources
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.GenerateResource.cache
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.CoreCompileInputs.cache
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\obj\Debug\Giris_Ek.39DC4211.Up2Date
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\obj\Debug\Giris_Ekranı.exe
+C:\Users\Hanife\Desktop\akıl\akıl\Giris_Ekranı\obj\Debug\Giris_Ekranı.pdb
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe.config
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Giris_Ekranı.pdb
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\stdole.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\obj\Debug\Giris_Ekranı.Anasayfa.resources
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\obj\Debug\Giris_Ekranı.girisformu.resources
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\obj\Debug\Giris_Ekranı.kitap_islemleri.resources
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\obj\Debug\Giris_Ekranı.kullanici_islemleri.resources
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\obj\Debug\Giris_Ekranı.odunc_islemleri.resources
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\obj\Debug\Giris_Ekranı.Properties.Resources.resources
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\obj\Debug\Giris_Ekranı.uye.resources
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.GenerateResource.cache
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\obj\Debug\Giris_Ek.39DC4211.Up2Date
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\obj\Debug\Giris_Ekranı.exe
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\obj\Debug\Giris_Ekranı.pdb
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\obj\Debug\Giris_Ekranı.rapor1.resources
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Azure.Core.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Azure.Identity.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.ClientModel.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Memory.Data.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Security.Permissions.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Azure.Core.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Azure.Identity.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.ClientModel.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Memory.Data.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Security.Permissions.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\projemiz\projemiz\Giris_Ekranı\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe.config
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Giris_Ekranı.pdb
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Azure.Core.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Azure.Identity.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Buffers.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.ClientModel.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Memory.Data.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Memory.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Security.AccessControl.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Security.Permissions.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Text.Json.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.ValueTuple.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Azure.Core.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Azure.Identity.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Buffers.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.ClientModel.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Memory.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Memory.Data.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Security.AccessControl.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Security.Permissions.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Text.Json.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\System.ValueTuple.xml
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\obj\Debug\Giris_Ekranı.Anasayfa.resources
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\obj\Debug\Giris_Ekranı.girisformu.resources
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\obj\Debug\Giris_Ekranı.kitap_islemleri.resources
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\obj\Debug\Giris_Ekranı.kullanici_islemleri.resources
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\obj\Debug\Giris_Ekranı.odunc_islemleri.resources
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\obj\Debug\Giris_Ekranı.Properties.Resources.resources
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\obj\Debug\Giris_Ekranı.rapor1.resources
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\obj\Debug\Giris_Ekranı.uye.resources
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\obj\Debug\Giris_Ek.39DC4211.Up2Date
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\obj\Debug\Giris_Ekranı.exe
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\obj\Debug\Giris_Ekranı.pdb
+C:\Users\ASUS\Downloads\projekayit3\projekayit3\Giris_Ekranı\obj\Debug\Giris_Ekranı.rapor3.resources
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe.config
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Giris_Ekranı.pdb
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Azure.Core.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Azure.Identity.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.ClientModel.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Memory.Data.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Security.Permissions.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\stdole.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Azure.Core.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Azure.Identity.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.ClientModel.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Memory.Data.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Security.Permissions.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\obj\Debug\Giris_Ekranı.Anasayfa.resources
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\obj\Debug\Giris_Ekranı.girisformu.resources
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\obj\Debug\Giris_Ekranı.kitap_islemleri.resources
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\obj\Debug\Giris_Ekranı.kullanici_islemleri.resources
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\obj\Debug\Giris_Ekranı.odunc_islemleri.resources
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\obj\Debug\Giris_Ekranı.Properties.Resources.resources
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\obj\Debug\Giris_Ekranı.rapor1.resources
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\obj\Debug\Giris_Ekranı.rapor3.resources
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\obj\Debug\Giris_Ekranı.uye.resources
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\obj\Debug\Giris_Ek.39DC4211.Up2Date
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\obj\Debug\Giris_Ekranı.exe
+C:\Users\user\Desktop\Kütüphane Sistemi\Kütüphane Sistemi\Giris_Ekranı\obj\Debug\Giris_Ekranı.pdb
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe.config
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Giris_Ekranı.pdb
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Azure.Core.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Azure.Identity.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.ClientModel.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Memory.Data.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Security.Permissions.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\stdole.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Azure.Core.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Azure.Identity.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.ClientModel.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Memory.Data.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Security.Permissions.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.Anasayfa.resources
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.girisformu.resources
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.kitap_islemleri.resources
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.kullanici_islemleri.resources
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.odunc_islemleri.resources
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.Properties.Resources.resources
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.rapor1.resources
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.rapor3.resources
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.uye.resources
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.GenerateResource.cache
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ek.39DC4211.Up2Date
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.exe
+C:\Users\user\Desktop\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.pdb
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe.config
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Giris_Ekranı.exe
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Giris_Ekranı.pdb
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Azure.Core.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Azure.Identity.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.ClientModel.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Memory.Data.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Security.Permissions.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Text.Json.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.ValueTuple.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\stdole.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Azure.Core.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Azure.Identity.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.ClientModel.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Memory.Data.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Security.Permissions.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Text.Json.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\System.ValueTuple.xml
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.Anasayfa.resources
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.girisformu.resources
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.kitap_islemleri.resources
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.kullanici_islemleri.resources
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.odunc_islemleri.resources
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.Properties.Resources.resources
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.rapor1.resources
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.rapor3.resources
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.uye.resources
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.GenerateResource.cache
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ek.39DC4211.Up2Date
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.exe
+C:\Users\user\Desktop\KÜTÜPHANE OTOMASYONU\KütüphaneOtomasyonu_VTYS\Giris_Ekranı\obj\Debug\Giris_Ekranı.pdb

@@ -1,0 +1,112 @@
+C:\Users\user\Desktop\kitapIslemleriForm\kitapIslemleriForm\bin\Debug\kitapIslemleriForm.exe.config
+C:\Users\user\Desktop\kitapIslemleriForm\kitapIslemleriForm\bin\Debug\kitapIslemleriForm.exe
+C:\Users\user\Desktop\kitapIslemleriForm\kitapIslemleriForm\bin\Debug\kitapIslemleriForm.pdb
+C:\Users\user\Desktop\kitapIslemleriForm\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\kitapIslemleriForm\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.Form1.resources
+C:\Users\user\Desktop\kitapIslemleriForm\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.Properties.Resources.resources
+C:\Users\user\Desktop\kitapIslemleriForm\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\kitapIslemleriForm\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\kitapIslemleriForm\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.exe
+C:\Users\user\Desktop\kitapIslemleriForm\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.pdb
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\kitapIslemleriForm.exe.config
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\kitapIslemleriForm.exe
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\kitapIslemleriForm.pdb
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.Form1.resources
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.Properties.Resources.resources
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.exe
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.pdb
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.exe.config
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\ClosedXML.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\ClosedXML.Parser.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\ClosedXML.Report.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\ExcelDataReader.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\ExcelNumberFormat.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\MoreLinq.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\RBush.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\SixLabors.Fonts.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\ClosedXML.pdb
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\ClosedXML.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\ClosedXML.Parser.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\ExcelDataReader.pdb
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\ExcelDataReader.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\ExcelNumberFormat.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\MoreLinq.pdb
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\MoreLinq.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\RBush.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\SixLabors.Fonts.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\System.Linq.Dynamic.Core.pdb
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Kopya\kitapIslemleriForm\obj\Debug\kitapIsl.04B86B4B.Up2Date
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\kitapIslemleriForm.exe.config
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\kitapIslemleriForm.exe
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\kitapIslemleriForm.pdb
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\ClosedXML.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\ClosedXML.Parser.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\ClosedXML.Report.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\ExcelDataReader.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\ExcelNumberFormat.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\MoreLinq.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\RBush.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\SixLabors.Fonts.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\System.Linq.Dynamic.Core.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\ClosedXML.pdb
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\ClosedXML.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\ClosedXML.Parser.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\ExcelDataReader.pdb
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\ExcelDataReader.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\ExcelNumberFormat.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\MoreLinq.pdb
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\MoreLinq.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\RBush.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\SixLabors.Fonts.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\System.Linq.Dynamic.Core.pdb
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\System.Linq.Dynamic.Core.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.exe.config
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.Form1.resources
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.Properties.Resources.resources
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\obj\Debug\kitapIsl.04B86B4B.Up2Date
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.exe
+C:\Users\user\Desktop\kitapIslemleriForm - Main - Kopya\kitapIslemleriForm\obj\Debug\kitapIslemleriForm.pdb

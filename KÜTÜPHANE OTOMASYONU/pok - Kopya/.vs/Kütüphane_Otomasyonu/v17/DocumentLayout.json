@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\pok - Kopya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F74D9E6-BF98-4695-BC5F-3C75DF7F58A0}|Giris_Ekran\u0131\\Giris_Ekran\u0131.csproj|c:\\users\\user\\desktop\\pok - kopya\\giris_ekran\u0131\\kitap_islemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F74D9E6-BF98-4695-BC5F-3C75DF7F58A0}|Giris_Ekran\u0131\\Giris_Ekran\u0131.csproj|solutionrelative:giris_ekran\u0131\\kitap_islemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F74D9E6-BF98-4695-BC5F-3C75DF7F58A0}|Giris_Ekran\u0131\\Giris_Ekran\u0131.csproj|C:\\Users\\user\\Desktop\\pok - Kopya\\giris_ekran\u0131\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F74D9E6-BF98-4695-BC5F-3C75DF7F58A0}|Giris_Ekran\u0131\\Giris_Ekran\u0131.csproj|solutionrelative:giris_ekran\u0131\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F74D9E6-BF98-4695-BC5F-3C75DF7F58A0}|Giris_Ekran\u0131\\Giris_Ekran\u0131.csproj|C:\\Users\\user\\Desktop\\pok - Kopya\\giris_ekran\u0131\\kitap_islemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5F74D9E6-BF98-4695-BC5F-3C75DF7F58A0}|Giris_Ekran\u0131\\Giris_Ekran\u0131.csproj|solutionrelative:giris_ekran\u0131\\kitap_islemleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F74D9E6-BF98-4695-BC5F-3C75DF7F58A0}|Giris_Ekran\u0131\\Giris_Ekran\u0131.csproj|C:\\Users\\user\\Desktop\\pok - Kopya\\giris_ekran\u0131\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F74D9E6-BF98-4695-BC5F-3C75DF7F58A0}|Giris_Ekran\u0131\\Giris_Ekran\u0131.csproj|solutionrelative:giris_ekran\u0131\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F74D9E6-BF98-4695-BC5F-3C75DF7F58A0}|Giris_Ekran\u0131\\Giris_Ekran\u0131.csproj|C:\\Users\\user\\Desktop\\pok - Kopya\\giris_ekran\u0131\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F74D9E6-BF98-4695-BC5F-3C75DF7F58A0}|Giris_Ekran\u0131\\Giris_Ekran\u0131.csproj|solutionrelative:giris_ekran\u0131\\sqlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kitap_islemleri.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\pok - Kopya\\Giris_Ekran\u0131\\kitap_islemleri.cs",
+              "RelativeDocumentMoniker": "Giris_Ekran\u0131\\kitap_islemleri.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\pok - Kopya\\Giris_Ekran\u0131\\kitap_islemleri.cs",
+              "RelativeToolTip": "Giris_Ekran\u0131\\kitap_islemleri.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAmwBMBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:53:05.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Anasayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\pok - Kopya\\Giris_Ekran\u0131\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "Giris_Ekran\u0131\\Anasayfa.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\pok - Kopya\\Giris_Ekran\u0131\\Anasayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Giris_Ekran\u0131\\Anasayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:33:07.941Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SqlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\pok - Kopya\\Giris_Ekran\u0131\\SqlHelper.cs",
+              "RelativeDocumentMoniker": "Giris_Ekran\u0131\\SqlHelper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\pok - Kopya\\Giris_Ekran\u0131\\SqlHelper.cs",
+              "RelativeToolTip": "Giris_Ekran\u0131\\SqlHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T09:27:43.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Anasayfa.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\pok - Kopya\\Giris_Ekran\u0131\\Anasayfa.cs",
+              "RelativeDocumentMoniker": "Giris_Ekran\u0131\\Anasayfa.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\pok - Kopya\\Giris_Ekran\u0131\\Anasayfa.cs",
+              "RelativeToolTip": "Giris_Ekran\u0131\\Anasayfa.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAowIYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:35:12.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kitap_islemleri.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\pok - Kopya\\Giris_Ekran\u0131\\kitap_islemleri.cs",
+              "RelativeDocumentMoniker": "Giris_Ekran\u0131\\kitap_islemleri.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\pok - Kopya\\Giris_Ekran\u0131\\kitap_islemleri.cs [Tasar\u0131m]*",
+              "RelativeToolTip": "Giris_Ekran\u0131\\kitap_islemleri.cs [Tasar\u0131m]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T08:32:50.25Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

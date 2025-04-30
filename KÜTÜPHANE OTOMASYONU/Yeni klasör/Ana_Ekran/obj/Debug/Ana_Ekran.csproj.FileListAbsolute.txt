@@ -1,0 +1,10 @@
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Ana_Ekran\bin\Debug\Ana_Ekran.exe.config
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Ana_Ekran\bin\Debug\Ana_Ekran.exe
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Ana_Ekran\bin\Debug\Ana_Ekran.pdb
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Ana_Ekran\obj\Debug\Ana_Ekran.csproj.AssemblyReference.cache
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Ana_Ekran\obj\Debug\Ana_Ekran.anaform.resources
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Ana_Ekran\obj\Debug\Ana_Ekran.Properties.Resources.resources
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Ana_Ekran\obj\Debug\Ana_Ekran.csproj.GenerateResource.cache
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Ana_Ekran\obj\Debug\Ana_Ekran.csproj.CoreCompileInputs.cache
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Ana_Ekran\obj\Debug\Ana_Ekran.exe
+C:\Users\Hanife\source\repos\Kütüphane_Otomasyonu\Ana_Ekran\obj\Debug\Ana_Ekran.pdb
